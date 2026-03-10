@@ -1,0 +1,2 @@
+#this list contains all the dependencies used for the files to install
+pip install streamlit langchain langchain-community langchain-groq chromadb sentence-transformers pandas SpeechRecognition gTTS google-trans-new pyaudio langchain-text-splitters
